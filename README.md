@@ -6,4 +6,6 @@ exam2
 - TBD
  - TBD
 
+Start: 10:30
+
 Deadline: 13:XX
