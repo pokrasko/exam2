@@ -2,7 +2,6 @@
 <resources>
 
     <string name="app_name">exam2</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="no_playlists">There are no playlists.</string>
 
 </resources>
